@@ -1,0 +1,548 @@
+{
+  "main": {
+    "name": "Ankit Kumar Singh",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "App Development"
+    ],
+    "heroImage": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/photo_2024-06-14_11-14-40.jpg?alt=media&token=729078d1-bfd1-4919-8896-f83a81a01a18",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/sql.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/javascript.png",
+      "https://img.icons8.com/color/144/000000/php.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/885166d9-cdff-452b-83c4-0d7c734ea68d.jpg?alt=media&token=78cd8224-7ee4-4e1b-8e4b-625d2451ae5d",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a Full-Stack developer. I'm an Information Technology undergraduate from Ranchi University, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
+    "callUrl": "ankitmcr23.technsl.in",
+    "resumeUrl": "https://drive.google.com/file/d/1LwHBFUi3EkI9d8e-MHTgogI8srkFJllX/view?usp=drive_link"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/ankit-singh-441459231"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/Ankitsingh2611"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/ankitsingh.26"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://x.com/theankitsingh26"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/color/144/null/tailwindcss.png",
+      "category": "Frontend"
+    }, 
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/null/bootstrap.png", 
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/144/null/css.png", 
+      "category": "Frontend"
+    },
+    {
+      "name": "NextJS",
+      "image": "https://img.icons8.com/color/144/null/nextjs.png", 
+      "category": "Frontend"
+    },
+
+
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "NodeJS",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",  
+      "category": "Backend"
+    },
+    {
+      "name": "Npm",
+      "image": "https://img.icons8.com/color/144/null/npm.png",  
+      "category": "Backend"
+    },
+    {
+      "name": "ExpressJS",
+      "image": "https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000",  
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/color/144/null/mongodb.png",  
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/color/144/null/mysql.png",  
+      "category": "Backend"
+    },
+    {
+      "name": "PHP",
+      "image": "https://img.icons8.com/color/144/null/php.png",  
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Java",
+      "image": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "DigitalOcean",
+      "image": "https://img.icons8.com/?size=100&id=NTk60lqGX88D&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "Netlify",
+      "image": "https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/material-outlined/96/null/git.png",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Color",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, PostgreSQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/basicbank.PNG?alt=media&token=e39b18a0-d521-4bef-971f-d598192bf5ee",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611/Color",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "NoteXpert",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/composey.png?alt=media&token=3aaa6241-6485-4ca3-ad1d-7289e086966c",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611/ELearning",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "CarServ",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/instagrammern.png?alt=media&token=d3e91c69-00dc-4265-b80e-7f7377419035",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Online Examination",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/issuetrack.PNG?alt=media&token=589067af-13ff-4b70-a1ac-d89444ea986c",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "My Art Auction",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/newsboxandroid.png?alt=media&token=479f1877-684f-4c76-87c0-56b03c9ba69d",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    
+    {
+      "name": "Web Camera Capture",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MongoDB",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/kiaweb.PNG?alt=media&token=93ae50ec-e967-4b80-b158-51b34151e011",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "HouseHold Helpers",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/phppblform.png?alt=media&token=fae8e2cd-f43c-412d-b927-ded396200956",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Mock Test",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/jspro.PNG?alt=media&token=65cae51d-17cd-4ab3-90d3-cae4532e2626",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Admin Dashboard",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/notystackandroid.png?alt=media&token=020d4078-15ed-4cbc-b479-ce74fe168044",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Medicca",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/sppuprepandroid.png?alt=media&token=3830056e-c3ad-4ac1-acb6-13711fa64e71",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "PizzaHut",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, PHP, Laravel, MySQL",
+      "category": "PHP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/weatherlyandroid.png?alt=media&token=a4517219-eed4-4c7c-b42b-76d81c702f20",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "My Portfolio",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/portfolio1.PNG?alt=media&token=9e19a83d-65a2-4c76-bc3a-c8148a4bae6f",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": "https://ankitkrsinghportfolio.netlify.app/"
+      }
+    },
+    {
+      "name": "Flipkart",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/flipkartphp.png?alt=media&token=fd09d154-1be9-49f8-a12e-bfe3d8bef7c4",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "React",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/reactprojects.png?alt=media&token=38797349-52aa-407f-b7bf-26c9f86c55e8",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Shopping Site",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/resistercolor.PNG?alt=media&token=d8064885-bc1e-466c-bf06-e024d5c0b757",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Foody",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/foodicious.png?alt=media&token=db48767f-1d1c-4db3-9a4b-f3783d9bda74",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Ankit Coding Blog",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/linklist.PNG?alt=media&token=7d3892a7-12ca-45f1-8543-6fc237515116",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "One Notes",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/oldsites.png?alt=media&token=4d1e7688-aee2-457d-9036-09af405b1bfc",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Payment Gateway",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/saas.PNG?alt=media&token=ef7806cd-dbc4-4c3d-b39b-5416042a9b64",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Coding Notes",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/portfolio.PNG?alt=media&token=d429c209-cf04-4a0c-9997-9be0a11824bd",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "GYM",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/templeweb.PNG?alt=media&token=468b30f3-8bc2-48bd-a982-c168a62f07f8",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Yummy",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/tsfbank.png?alt=media&token=223cdad7-e7f9-4403-b0f7-86ceffa15a88",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Food Shop",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery, Firebase, React, NodeJS, ExpressJS",
+      "category": "MERN Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/webchat.PNG?alt=media&token=52077892-02c6-4c75-b721-b9c306cb4fdf",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Tamplate",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/bootstraptemplate.png?alt=media&token=a05242a0-5840-4d1d-ae87-8238c92779f0",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Burger King",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/burgerweb.PNG?alt=media&token=7b3d8260-142f-4b07-b6cc-f519704451ad",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "ToDesktop",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/cryptotracker.png?alt=media&token=71a8b9d9-171c-49ec-9a27-acd27db2bd24",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Netflix",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/flipkartmern.png?alt=media&token=ada4daa2-2036-4bc5-8aab-a50282505ed1",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Food",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/foodwebsite.png?alt=media&token=2503b607-4c66-45fa-bb5a-8eff45f7d56d",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Spotify",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://console.firebase.google.com/u/0/project/ankitsingh-portfolio/storage/ankitsingh-portfolio.appspot.com/files",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Resume Gen",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/resumegen.png?alt=media&token=c5f8f988-26b6-4a2b-98df-48fa5111fbf1",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Restro",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/webuiclones.png?alt=media&token=18abc0e5-0432-435e-b252-783a697488d9",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Resume",
+      "techstack": "Tailwind, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "Landing Page",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ankitsingh-portfolio.appspot.com/o/bootstrapportfolio.png?alt=media&token=3d584ff2-f720-4951-9a23-b3fc84e94200",
+      "links": {
+        "code": "https://github.com/Ankitsingh2611",
+        "video": "https://youtube.com/playlist?list=PLDKbKyCa4jDNNfZ8hbKuQi-whIqtCygu3&si=btRrKnGN-hOPHjna",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "ST. Aloysius High Ranchi ",
+      "degree": "SSC Science",
+      "duration": "2018"
+    },
+    {
+      "institute": "ST. Xavier's College Ranchi ",
+      "degree": "HSC Science",
+      "duration": "2018 - 2020"
+    },
+    {
+      "institute": "Marwadi College Ranchi University",
+      "degree": "B.Tech CSE",
+      "duration": "2020 - 2023",
+      "desc": [
+        "Pursuing IT Engineering course from Ranchi University",
+        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "InfoNSL",
+      "position": "Web Developer",
+      "duration": "2023 -2024",
+      "desc": [
+        "Assisted with design and development of project.",
+        "Worked on building the product from scratch and built multiple dashboards.",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs & PHP Laravel"
+      ]
+    },
+    {
+      "company": "Nsl Technology",
+      "position": "Database Administrator Jr.",
+      "duration": "2023",
+      "desc": [
+        " Expertise in MSSQL Server, MySQL, MongoDB, PostgreSQL, SQLite.",
+        "Worked on building the product from scratch and built multiple dashboards. ",
+        "Created Virtual Machines and Worked over different windows servers and perform task in VMware and cloud Proxmox, Citrix"
+      ]
+    }
+  ]
+}
